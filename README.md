@@ -1,7 +1,6 @@
 # TCP Vegas + Adaptive Kalman Filter — NS-3 Simulation
 
 **BUET CSE — Network Simulation Project**
-**Student:** Ridhwan Asif | **ID:** 24
 
 ## Project Overview
 NS-3 simulation of TCP Vegas in 6G-like mobile wireless scenarios.
