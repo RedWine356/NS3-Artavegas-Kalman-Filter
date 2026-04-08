@@ -1,0 +1,14 @@
+# CSV data files (large, regenerate by running simulations)
+*.csv
+
+# NS-3 build artifacts
+*.o
+*.a
+build/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
